@@ -1,0 +1,64 @@
+,long-form,idx_upper,idx_lower,Short-form
+0,Please advise the official name of your Institution/ Organization and/ or Department / Center:,0,0,Organization
+1,Do you at faculty level work on common practices addressing the Ethical challenges.  Do you have a common practice for supporting Ethical challenges?,1,0,Practices addressing ethical challenges
+2,"If yes, please describe here:",1,1,Describe
+3,Do you at faculty level work on common practice in supporting the communication- and publication activities? (please rate on a scale from 1 (not at all) to 5 (fully implemented)?,2,0,Practice supporting communication/publication
+4,"If yes, please describe here:.1",2,1,Describe
+5,"Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Not yet and have no immediate plans
+",3,0,DRM – Faculty
+6,"Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Not yet, but plan to start relevant initiatives in the near future",3,1,DRM – Faculty
+7,"Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Some institutes have initiated development, but have no common strategy in place",3,2,DRM – Faculty
+8,Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Have developed a common strategy and initiated competence development,3,3,DRM – Faculty
+9,Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Have a well-defined portfolio of initiatives and of labs to support the competence development ,3,4,DRM – Faculty
+10,"If you have additional remarks, please write them here:",3,5,Remarks
+11,"Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Not yet and have no immediate plans
+",4,0,DRM – Department
+12,"Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Not yet, but plan to start relevant initiatives in the near future",4,1,DRM – Department
+13,"Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have initiated development, but no decision in place",4,2,DRM – Department
+14,"Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have developed a strategy and initiated an introduction",4,3,DRM – Department
+15,"Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have a well-defined portfolio of methodologies",4,4,DRM – Department
+16,"If you have additional remarks, please write them here:.1",4,5,Remarks
+17,Would you be willing to share any of the following? (please mark all that apply),5,0,Share resources (which)
+18,Do you offer competence development of Master-level students?,6,0,CD at MA-level
+19,If yes: How is it implemented - Is the course part of the curriculum,6,1,Part of Curriculum
+20,If yes: How is it implemented - Are the courses of general or specialized nature? ,6,2,General/specialized
+21,If yes: How is it implemented,6,3,Other
+22,Is DIGITAL methodology taught as an integrated part of the existing course or is it a separate course? ,7,0,DRM part of existing or separate course
+23,Have you developed your own  course material?,8,0,Developed own material
+24,What type?,8,1,What type is it
+25,By whom?,8,2,Who developed it
+26,Would you be willing to share the course materials with WHOM?,9,0,Willingness to share course material
+27,"If you have developed the course material yourself, please list the name or the sources:",10,0,Link
+28,"Please list courses offered in 2016-2018,  or add a link.",11,0,Courses in 2016-18
+29,"Do you have experience in offering competence development for students, which does not result in ECTS;  if yes, please share your experience (incl.pros/cons).",12,0,CD without credits
+30,"How do you at your university (or at, faculty or department level) support data management?",13,0,Support for DM
+31,"How do you at your university (or at, faculty or department level) support data management? - In case, you would like to share you outcome, please add an URL:",13,1,Link
+32,"As part of training employees in Digital Humanities, do you offer online training course components ?",14,0,Online DH training
+33,Are you aware of - or interested in using courses or course components from?,15,0,Awareness of following initiative 
+34,"Are you aware of - or interested in using courses or course components from? - Somebody else, please state:",16,0,Awareness of other initiatives
+35,Would you like to collaborate on identifying and sharing knowledge relevant for competence development within Humanities? ,17,0,Willingness to collaborate on resources
+36,"Any specific experiences you want to share with other relevant parties (such as Nordic partners, researchers and institutions)",18,0,Willingness to share experience
+37,Areas in which your department can contribute (core competences),19,0,Contribution areas
+38,Please list areas which you see as having potential for a broader Nordic collaboration ,20,0,Areas for Nordic collaboration
+39,"Name of research group, research center and/or department",21,0,"Relevant research groups, centers, departmenrs"
+40,Would you be interested in using such a sandbox?,22,0,Interest in sandbox
+41,"Are you offering competence development to build this kind of competences?  - Graphical representations and interpretations of data
+",23,0,CD: EDA
+42,"Are you offering competence development to build this kind of competences?  - Basic statistical understanding
+",23,1,CD: Statistics
+43,"Are you offering competence development to build this kind of competences?  - Ethical questions arising in the digital world 
+",23,2,CD: Ethics
+44,"Are you offering competence development to build this kind of competences?  - Importance of right management and of data protection
+",23,3,CD: Data rights and protection
+45,"Are you offering competence development to build this kind of competences?  - Cross sector terminology (e.g to allow a humanist to talk to a computer scientist or a statistician) 
+",23,4,CD: Interdisciplinary dialogue
+46,Other:,23,5,Other
+47,"As a research group or similar, how do you work with competence development?",24,0,CD in research group
+48,Have you considered supercomputing in your work or do you collaborate with others that use HPC? ,25,0,Interest in HPC
+49,Who are in charge of developing and running the course?,26,0,Course management
+50,"Who are in charge of developing and running the course? - Other, please state: ",26,1,Other
+51,Do you offer separate courses or do you have the activities as an integrated part of the existing “normal” lectures?,27,0,Course integrated/separate
+52,"Please list the name of courses and competence development, which you think might be useful for others (list or include URL)?",28,0,Relevant courses
+53,"Please list the course material, which has not already been mentioned, which you think is relevant for others and you are willing to share",29,0,Relevant course material
+54,"The results of this project will be send to the responders, however, would you like to receive this directly?",30,0,Receive results
+55,"The results of this project will be send to the responders, however, would you like to receive this directly? - Yes, please mail to",30,1,Email

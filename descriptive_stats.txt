@@ -1,0 +1,436 @@
+column 0
+count                     37
+unique                    36
+top       Aalborg University
+freq                       2
+Name: Please advise the official name of your Institution/ Organization and/ or Department / Center:, dtype: object
+ ********** 
+column 1
+count     41
+unique     2
+top       No
+freq      30
+Name: Do you at faculty level work on common practices addressing the Ethical challenges.  Do you have a common practice for supporting Ethical challenges?, dtype: object
+ ********** 
+column 2
+count                                                    11
+unique                                                   11
+top       University level documents on: 1) Ethical Prin...
+freq                                                      1
+Name: If yes, please describe here:, dtype: object
+ ********** 
+column 3
+count      34
+unique      3
+top       Yes
+freq       17
+Name: Do you at faculty level work on common practice in supporting the communication- and publication activities? (please rate on a scale from 1 (not at all) to 5 (fully implemented)?, dtype: object
+ ********** 
+column 4
+count     15
+unique    11
+top        3
+freq       3
+Name: If yes, please describe here:.1, dtype: object
+ ********** 
+column 5
+count    17.000000
+mean      1.823529
+std       1.236694
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       2.000000
+max       5.000000
+Name: Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Not yet and have no immediate plans\n, dtype: float64
+ ********** 
+column 6
+count    16.000000
+mean      2.812500
+std       1.470544
+min       1.000000
+25%       1.750000
+50%       3.000000
+75%       4.000000
+max       5.000000
+Name: Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Not yet, but plan to start relevant initiatives in the near future, dtype: float64
+ ********** 
+column 7
+count    19.000000
+mean      3.052632
+std       1.268143
+min       1.000000
+25%       2.000000
+50%       3.000000
+75%       4.000000
+max       5.000000
+Name: Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Some institutes have initiated development, but have no common strategy in place, dtype: float64
+ ********** 
+column 8
+count    17.000000
+mean      2.117647
+std       1.317306
+min       1.000000
+25%       1.000000
+50%       2.000000
+75%       3.000000
+max       5.000000
+Name: Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Have developed a common strategy and initiated competence development, dtype: float64
+ ********** 
+column 9
+count    16.000000
+mean      1.875000
+std       1.204159
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       3.000000
+max       5.000000
+Name: Do you at faculty level work on introducing digital research methodologies (please rate on a scale from 1 (not at all) to 5 (fully implemented)? - Have a well-defined portfolio of initiatives and of labs to support the competence development , dtype: float64
+ ********** 
+column 10
+count                                                    3
+unique                                                   3
+top       We are currenlty developing the common practices
+freq                                                     1
+Name: If you have additional remarks, please write them here:, dtype: object
+ ********** 
+column 11
+count    13.000000
+mean      1.846154
+std       1.344504
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       2.000000
+max       5.000000
+Name: Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Not yet and have no immediate plans\n, dtype: float64
+ ********** 
+column 12
+count    12.000000
+mean      2.333333
+std       1.370689
+min       1.000000
+25%       1.000000
+50%       2.000000
+75%       3.250000
+max       5.000000
+Name: Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Not yet, but plan to start relevant initiatives in the near future, dtype: float64
+ ********** 
+column 13
+count    14.000000
+mean      2.428571
+std       1.398586
+min       1.000000
+25%       1.000000
+50%       2.500000
+75%       3.000000
+max       5.000000
+Name: Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have initiated development, but no decision in place, dtype: float64
+ ********** 
+column 14
+count    16.000000
+mean      2.750000
+std       1.612452
+min       1.000000
+25%       1.000000
+50%       2.500000
+75%       4.250000
+max       5.000000
+Name: Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have developed a strategy and initiated an introduction, dtype: float64
+ ********** 
+column 15
+count    14.000000
+mean      2.214286
+std       1.423893
+min       1.000000
+25%       1.000000
+50%       1.500000
+75%       3.000000
+max       5.000000
+Name: Do any of your institutes or departments work on introducing digital research methodologies? (rate on a scale from 1 (not at all) to 5 (fully implemented)) - Yes, have a well-defined portfolio of methodologies, dtype: float64
+ ********** 
+column 16
+count                                                     4
+unique                                                    4
+top       Some research projects, mostly connected to Hu...
+freq                                                      1
+Name: If you have additional remarks, please write them here:.1, dtype: object
+ ********** 
+column 17
+count                   16
+unique                   5
+top       Your experiences
+freq                     5
+Name: Would you be willing to share any of the following? (please mark all that apply), dtype: object
+ ********** 
+column 18
+count     22
+unique     2
+top       No
+freq      13
+Name: Do you offer competence development of Master-level students?, dtype: object
+ ********** 
+column 19
+count       8
+unique      2
+top       Yes
+freq        6
+Name: If yes: How is it implemented - Is the course part of the curriculum, dtype: object
+ ********** 
+column 20
+count       6
+unique      2
+top       Yes
+freq        4
+Name: If yes: How is it implemented - Are the courses of general or specialized nature? , dtype: object
+ ********** 
+column 21
+count      3
+unique     2
+top       No
+freq       2
+Name: If yes: How is it implemented, dtype: object
+ ********** 
+column 22
+count       8
+unique      2
+top       New
+freq        6
+Name: Is DIGITAL methodology taught as an integrated part of the existing course or is it a separate course? , dtype: object
+ ********** 
+column 23
+count       7
+unique      2
+top       Yes
+freq        4
+Name: Have you developed your own  course material?, dtype: object
+ ********** 
+column 24
+count     4
+unique    4
+top       a
+freq      1
+Name: What type?, dtype: object
+ ********** 
+column 25
+count           4
+unique          4
+top       Teacher
+freq            1
+Name: By whom?, dtype: object
+ ********** 
+column 26
+count                                           4
+unique                                          4
+top       Everybody that would use and enhance it
+freq                                            1
+Name: Would you be willing to share the course materials with WHOM?, dtype: object
+ ********** 
+column 27
+count     2
+unique    2
+top       a
+freq      1
+Name: If you have developed the course material yourself, please list the name or the sources:, dtype: object
+ ********** 
+column 28
+count                             3
+unique                            3
+top       http://heldig.fi/teaching
+freq                              1
+Name: Please list courses offered in 2016-2018,  or add a link., dtype: object
+ ********** 
+column 29
+count     1
+unique    1
+top       a
+freq      1
+Name: Do you have experience in offering competence development for students, which does not result in ECTS;  if yes, please share your experience (incl.pros/cons)., dtype: object
+ ********** 
+column 30
+count                       18
+unique                      11
+top       Have not started yet
+freq                         5
+Name: How do you at your university (or at, faculty or department level) support data management?, dtype: object
+ ********** 
+column 31
+count    0.0
+mean     NaN
+std      NaN
+min      NaN
+25%      NaN
+50%      NaN
+75%      NaN
+max      NaN
+Name: How do you at your university (or at, faculty or department level) support data management? - In case, you would like to share you outcome, please add an URL:, dtype: float64
+ ********** 
+column 32
+count             21
+unique             5
+top       Mostly not
+freq               7
+Name: As part of training employees in Digital Humanities, do you offer online training course components ?, dtype: object
+ ********** 
+column 33
+count                                                     8
+unique                                                    6
+top       Software Carpentry: https://software-carpentry...
+freq                                                      3
+Name: Are you aware of - or interested in using courses or course components from?, dtype: object
+ ********** 
+column 34
+count             2
+unique            2
+top       DigHumLab
+freq              1
+Name: Are you aware of - or interested in using courses or course components from? - Somebody else, please state:, dtype: object
+ ********** 
+column 35
+count      18
+unique      2
+top       Yes
+freq       14
+Name: Would you like to collaborate on identifying and sharing knowledge relevant for competence development within Humanities? , dtype: object
+ ********** 
+column 36
+count                                            4
+unique                                           4
+top       teaching programming, HPC for humanities
+freq                                             1
+Name: Any specific experiences you want to share with other relevant parties (such as Nordic partners, researchers and institutions), dtype: object
+ ********** 
+column 37
+count                                          8
+unique                                         8
+top       programming, data analytics, databases
+freq                                           1
+Name: Areas in which your department can contribute (core competences), dtype: object
+ ********** 
+column 38
+count                                                    13
+unique                                                    9
+top       Common course material / Common example materi...
+freq                                                      4
+Name: Please list areas which you see as having potential for a broader Nordic collaboration , dtype: object
+ ********** 
+column 39
+count                           9
+unique                          9
+top       Digital resources group
+freq                            1
+Name: Name of research group, research center and/or department, dtype: object
+ ********** 
+column 40
+count                                                   19
+unique                                                   4
+top       Yes, I will use it if it is available / for free
+freq                                                     7
+Name: Would you be interested in using such a sandbox?, dtype: object
+ ********** 
+column 41
+count      16
+unique      2
+top       Yes
+freq        8
+Name: Are you offering competence development to build this kind of competences?  - Graphical representations and interpretations of data\n, dtype: object
+ ********** 
+column 42
+count      15
+unique      2
+top       Yes
+freq        9
+Name: Are you offering competence development to build this kind of competences?  - Basic statistical understanding\n, dtype: object
+ ********** 
+column 43
+count     15
+unique     2
+top       No
+freq       9
+Name: Are you offering competence development to build this kind of competences?  - Ethical questions arising in the digital world \n, dtype: object
+ ********** 
+column 44
+count     16
+unique     2
+top       No
+freq       9
+Name: Are you offering competence development to build this kind of competences?  - Importance of right management and of data protection\n, dtype: object
+ ********** 
+column 45
+count     15
+unique     2
+top       No
+freq      10
+Name: Are you offering competence development to build this kind of competences?  - Cross sector terminology (e.g to allow a humanist to talk to a computer scientist or a statistician) \n, dtype: object
+ ********** 
+column 46
+count                                                4
+unique                                               4
+top       Difficult material such as medieval sources?
+freq                                                 1
+Name: Other:, dtype: object
+ ********** 
+column 47
+count                                                    12
+unique                                                    3
+top       Embedded courses either as part of the researc...
+freq                                                      5
+Name: As a research group or similar, how do you work with competence development?, dtype: object
+ ********** 
+column 48
+count     18
+unique     2
+top       No
+freq      12
+Name: Have you considered supercomputing in your work or do you collaborate with others that use HPC? , dtype: object
+ ********** 
+column 49
+count                         6
+unique                        2
+top       Other, please state: 
+freq                          4
+Name: Who are in charge of developing and running the course?, dtype: object
+ ********** 
+column 50
+count                                            4
+unique                                           4
+top       humanities and computer science together
+freq                                             1
+Name: Who are in charge of developing and running the course? - Other, please state: , dtype: object
+ ********** 
+column 51
+count                                              14
+unique                                              2
+top       Courses are integrated into normal courses 
+freq                                                9
+Name: Do you offer separate courses or do you have the activities as an integrated part of the existing “normal” lectures?, dtype: object
+ ********** 
+column 52
+count                         5
+unique                        5
+top       Programming in Python
+freq                          1
+Name: Please list the name of courses and competence development, which you think might be useful for others (list or include URL)?, dtype: object
+ ********** 
+column 53
+count        1
+unique       1
+top       test
+freq         1
+Name: Please list the course material, which has not already been mentioned, which you think is relevant for others and you are willing to share, dtype: object
+ ********** 
+column 54
+count             18
+unique             2
+top       No, thanks
+freq              11
+Name: The results of this project will be send to the responders, however, would you like to receive this directly?, dtype: object
+ ********** 
+column 55
+count                                     7
+unique                                    7
+top       hum-dekan@aau.dk , mrl@adm.aau.dk
+freq                                      1
+Name: The results of this project will be send to the responders, however, would you like to receive this directly? - Yes, please mail to, dtype: object
+ ********** 
